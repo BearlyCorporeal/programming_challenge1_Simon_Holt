@@ -1,0 +1,7 @@
+C:\Users\102570136\source\repos\dice challenge\dice challenge\bin\Debug\dice challenge.exe.config
+C:\Users\102570136\source\repos\dice challenge\dice challenge\bin\Debug\dice challenge.exe
+C:\Users\102570136\source\repos\dice challenge\dice challenge\bin\Debug\dice challenge.pdb
+C:\Users\102570136\source\repos\dice challenge\dice challenge\obj\Debug\dice challenge.csprojAssemblyReference.cache
+C:\Users\102570136\source\repos\dice challenge\dice challenge\obj\Debug\dice challenge.csproj.CoreCompileInputs.cache
+C:\Users\102570136\source\repos\dice challenge\dice challenge\obj\Debug\dice challenge.exe
+C:\Users\102570136\source\repos\dice challenge\dice challenge\obj\Debug\dice challenge.pdb
